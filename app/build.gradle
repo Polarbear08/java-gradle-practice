@@ -29,7 +29,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'java.gradle.practice.App'
+    mainClass = 'com.polar.practice.App'
 }
 
 tasks.named('test') {
